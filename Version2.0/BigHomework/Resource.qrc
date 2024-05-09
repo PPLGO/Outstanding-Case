@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Nahida3.jpg</file>
+        <file>NahidaE.mp3</file>
+    </qresource>
+    <qresource prefix="/photo"/>
+</RCC>
