@@ -1,0 +1,16 @@
+release/cheater.o
+release/checkmate.o
+release/hint.o
+release/main.o
+release/menu.o
+release/reverse.o
+release/rule.o
+release/widget.o
+release/qrc_Resource.o
+release/moc_cheater.o
+release/moc_checkmate.o
+release/moc_hint.o
+release/moc_menu.o
+release/moc_reverse.o
+release/moc_rule.o
+release/moc_widget.o

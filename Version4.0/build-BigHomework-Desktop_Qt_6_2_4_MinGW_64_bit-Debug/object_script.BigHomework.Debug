@@ -1,0 +1,16 @@
+debug/cheater.o
+debug/checkmate.o
+debug/hint.o
+debug/main.o
+debug/menu.o
+debug/reverse.o
+debug/rule.o
+debug/widget.o
+debug/qrc_Resource.o
+debug/moc_cheater.o
+debug/moc_checkmate.o
+debug/moc_hint.o
+debug/moc_menu.o
+debug/moc_reverse.o
+debug/moc_rule.o
+debug/moc_widget.o

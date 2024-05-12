@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/video">
+        <file>NahidaE.mp3</file>
+    </qresource>
+    <qresource prefix="/photo">
+        <file>Nahida3.jpg</file>
+        <file>Castle1.png</file>
+        <file>GameR.png</file>
+        <file>cheated.png</file>
+        <file>reverse.png</file>
+        <file>yourtrap.png</file>
+        <file>hintp.png</file>
+        <file>Cover.png</file>
+        <file>Correct.png</file>
+        <file>Unknown.png</file>
+        <file>Wrong.png</file>
+        <file>Blank.png</file>
+    </qresource>
+</RCC>
